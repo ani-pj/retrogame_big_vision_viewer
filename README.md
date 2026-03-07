@@ -1,8 +1,7 @@
 # Retrogame Big Vision Viewer (RBV2)
 
 # ダウンロード
-- [「RBV2.exe」本体](aaa)
-- [「config.txt」]()
+[「ダウンロードはこちら！](https://github.com/ani-pj/retrogame_big_vision_viewer/raw/refs/heads/main/retrogame_big_vision_viewer.zip)
 
 # 使い方
 ## 概要
