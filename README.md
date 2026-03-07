@@ -1,7 +1,9 @@
 # Retrogame Big Vision Viewer (RBV2)
 
+
 # ダウンロード
 [ダウンロードはこちら！](https://github.com/ani-pj/retrogame_big_vision_viewer/raw/refs/heads/main/retrogame_big_vision_viewer.zip)
+
 
 # 使い方
 ## 概要
@@ -23,6 +25,7 @@
   - 上記3つはBilateral Filterのパラメタです。それぞれ数字を小さくすると処理が軽くなりますが、画面を綺麗にする効果が落ちます
 - COMPARE_MODE 0
   - 0は通常のモードです。1にすると、画面左半分が処理前の映像、右半部が処理後の映像となり、この処理の効果を確認できます
+
 
 # デモ
 - [PDF資料](./demo.pdf)
