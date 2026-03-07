@@ -1,7 +1,7 @@
 # Retrogame Big Vision Viewer (RBV2)
 
 # ダウンロード
-[「ダウンロードはこちら！](https://github.com/ani-pj/retrogame_big_vision_viewer/raw/refs/heads/main/retrogame_big_vision_viewer.zip)
+[ダウンロードはこちら！](https://github.com/ani-pj/retrogame_big_vision_viewer/raw/refs/heads/main/retrogame_big_vision_viewer.zip)
 
 # 使い方
 ## 概要
@@ -24,4 +24,8 @@
 - COMPARE_MODE 0
   - 0は通常のモードです。1にすると、画面左半分が処理前の映像、右半部が処理後の映像となり、この処理の効果を確認できます
 
+# デモ
+- [PDF資料](./demo.pdf)
+- [動画（カービィのエアライド）](https://youtu.be/-kInQGOimIQ)
+- [動画（ポケモンコロシアム）](https://youtu.be/QgVUtphf6XE)
 
