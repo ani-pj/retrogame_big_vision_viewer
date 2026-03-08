@@ -17,15 +17,32 @@
 - 音声は「音声入力キャプチャ」より、キャプチャボードを指定してください
 
 ## config.txtパラメータ
-- DEVICE 1
+- DEVICE
+  - デフォルト値：1
   - キャプチャボードのデバイス番号を指定します。分からなければ、0から順番に試してください。ただしこのとき、OBS Studio等の他のソフトで、ゲームの画面取り込みをしないでください
-- BILATERAL_FILTER_D 15
-- BILATERAL_FILTER_SIGMA_COLOR 50
-- BILATERAL_FILTER_SIGMA_SPACE 50
+- BILATERAL_FILTER_D
+  - デフォルト値：15
+- BILATERAL_FILTER_SIGMA_COLOR
+  - デフォルト値：50
+- BILATERAL_FILTER_SIGMA_SPACE
+  - デフォルト値：50
   - 上記3つはBilateral Filterのパラメタです。それぞれ数字を小さくすると処理が軽くなりますが、画面を綺麗にする効果が落ちます
-- COMPARE_MODE 0
+- COMPARE_MODE
+  - デフォルト値：0
   - 0は通常のモードです。1にすると、画面左半分が処理前の映像、右半部が処理後の映像となり、この処理の効果を確認できます
-
+- FPS_VIEW
+  - デフォルト値：0
+  - 1だと画面左上に緑文字で、現在のFPSを表示します。0で非表示です。
+- RESIZE_INTERPOLATION
+  - デフォルト値：INTER_CUBIC
+  - 画像の拡大処理に使うアルゴリズムを選択します。次のうちいずれかを選択してください
+    - INTER_NEAREST	最近傍法（ニアレストネイバー法）
+    - INTER_LINEAR	バイリニア補間法
+    - INTER_CUBIC	バイキュービック補間法（デフォルト）
+    - INTER_AREA
+    - INTER_LANCZOS4	Lanczos補間法
+    - INTER_LINEAR_EXACT	Bit exact バイリニア補間法
+    - INTER_NEAREST_EXACT	Bit exact 最近傍法
 
 # デモ
 - [PDF資料](./demo.pdf)
