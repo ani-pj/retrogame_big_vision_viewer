@@ -45,7 +45,11 @@
     - INTER_NEAREST_EXACT	Bit exact 最近傍法
 
 # デモ
+- どちらかというとピクセルで描かれていたゲームに強い傾向があります。
+- もしくはGC系のゲームでも、ベタ塗りで描かれているところに強いです。
 - [PDF資料](./demo.pdf)
-- [動画（カービィのエアライド）](https://youtu.be/KjjZ7a1PIK4)
-- [動画（ポケモンコロシアム）](https://youtu.be/oc1bF-HKGi8)
-
+- [動画（GC カービィのエアライド）](https://youtu.be/KjjZ7a1PIK4)
+- [動画（GC ポケモンコロシアム）](https://youtu.be/oc1bF-HKGi8)
+- [動画（GBA Mother1+2（GCにてGBAプレーヤー使用））](https://youtu.be/CEMfpwK8M4M)
+- [動画（GBA 星のカービィ鏡の大迷宮（GCにてGBAプレーヤー使用））](https://youtu.be/dSjkrDbI7Rw)
+- [動画（GBA メイドインワリオ（GCにてGBAプレーヤー使用））](https://youtu.be/23u8Sp-WGDc)
