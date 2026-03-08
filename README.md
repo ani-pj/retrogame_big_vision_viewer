@@ -46,6 +46,6 @@
 
 # デモ
 - [PDF資料](./demo.pdf)
-- [動画（カービィのエアライド）](https://youtu.be/-kInQGOimIQ)
-- [動画（ポケモンコロシアム）](https://youtu.be/QgVUtphf6XE)
+- [動画（カービィのエアライド）](https://youtu.be/KjjZ7a1PIK4)
+- [動画（ポケモンコロシアム）](https://youtu.be/oc1bF-HKGi8)
 
